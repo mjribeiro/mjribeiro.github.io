@@ -1,22 +1,19 @@
-<!--
 ---
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
--->
 
 (Under construction)
 
 Education
 ======
-* M.Eng. in Electronic and Electrical Engineering (with Placement), University of Bath, 2014
-* Ph.D in Computer Science, University of Bath, 2024 (expected)
+* MEng in Electronic and Electrical Engineering (with Placement), University of Bath, 2014 - 2019
+* Integrated MRes + PhD in Computer Science, University of Bath, 2019 - 2024
+	* Part of Centre for Accountable, Responsible, and Transparent AI (ART-AI)  
+	* Expected distinction in MRes component 
 
 Work experience
 ======
@@ -28,16 +25,12 @@ TBD
 
 Publications
 ======
-TBD
-<!--
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- --> 
 
 Talks
 ======
-TBD
 <!--
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -46,7 +39,6 @@ TBD
   
 Teaching
 ======
-TBD
 <!--
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -55,7 +47,3 @@ TBD
   
 Service and leadership
 ======
-TBD
-<!--
-* Currently signed in to 43 different slack teams
- --> 
