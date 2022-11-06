@@ -1,0 +1,10 @@
+---
+title: "Pig Ulnar Nerve Recording with Sinusoidal and Temporal Interference Stimulation"
+collection: publications
+permalink: /publication/2022-09-08-Pig-Ulnar-Nerve-Recording
+excerpt: 'This paper expands the current range of experimental methods by demonstrating in vivo extraneural recordings from the ulnar nerve of a pig while applying temporal interference stimulation at a location targeting a distal part of the nerve. The main aim of the experiment was to compare neural activation using sinusoidal stimulation (100 Hz, 2 kHz, 4 kHz) and temporal interference stimulation (2 kHz and 4 kHz). The recordings showed a significant increase in the magnitude of stimulation artefacts at higher frequencies. While those artefacts could be removed and provided an indication of the depth of modulation, they resulted in the saturation of the amplifiers, limiting the stimulation currents and amplifier gains used. The results of the 100 Hz sine wave stimulation showed clear neural activity correlated to the stimulation waveform. However, this was not observed with temporal interference stimulation. The results suggest that, despite its greater penetration, higher currents might be required to observe a neural response with temporal interference stimulation, and more complex artefact rejection techniques may be required to validate the method.'
+date: 2022-09-08
+venue: '2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9871603'
+citation: 'Jabban L, <b>Ribeiro M</b>, Andreis FR, Nielsen TGNdS and Metcalfe B (2022) &quot;Pig Ulnar Nerve Recording with Sinusoidal and Temporal Interference Stimulation.&quot; <i>2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</i> pp. 5084-5088. doi: 10.1109/EMBC48229.2022.9871603'
+---
