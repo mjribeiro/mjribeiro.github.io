@@ -52,7 +52,7 @@ Projects
 
 * <b>Digital Design and Verification Placement (Intel)</b>, <i>Jul '16 -- Aug '17</i>
   
-  Worked at Intel’s Communications and Devices Group for placement year, specifically on functional verification and Design-For-Test of application-specific ICs (ASICs). Contributed to various projects’ digital design and verification using VHDL and SystemVerilog. Also wrote and presented conference paper at Synopsys User Group Conference (SNUG).
+  Worked at Intel’s Communications and Devices Group for placement year, specifically on functional verification and Design-For-Test of application-specific ICs (ASICs). Contributed to various projects’ digital design and verification using VHDL and SystemVerilog. Also wrote and presented conference paper at Synopsys User Group Conference (SNUG)  titled "Automatic Test Point Insertion in MPHY Products" (Technical committee award, honourable mention).s
 
 * <b>STEM Ambassador – Volunteer</b>, <i>Jul '16 -- Aug '17</i>
 
