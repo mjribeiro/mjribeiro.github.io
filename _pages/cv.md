@@ -40,7 +40,7 @@ Projects
 ======
 * <b>PhD internship at The Technology Partnership (TTP)</b>, <i>Feb '22 -- Aug '22</i>
 
-  Worked as a consultant as part of the neurotechnology team, contributing to both internal R\&D projects and client-facing projects. Developed low-power ML algorithms for use in implantable cardiac devices, which have since been presented in prototypes at neurotechnology conferences and summits.
+  Worked as a consultant as part of the neurotechnology team, contributing to both internal R\&D projects and client-facing projects. Developed [low-power ML algorithms for use in implantable cardiac devices](https://www.linkedin.com/posts/mafalda-j-ribeiro_machinelearning-ttp-activity-6978670651268067328-iBKR?utm_source=share&utm_medium=member_desktop), which have since been presented in prototypes at neurotechnology conferences and summits.
 
 * <b>AI Challenge Project</b>, <i>Feb '20 -- May '20</i>
 
