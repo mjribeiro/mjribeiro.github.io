@@ -1,0 +1,10 @@
+---
+title: "Denoising and decoding spontaneous vagus nerve recordings with machine learning"
+collection: publications
+permalink: /publication/2023_12_11-ML-Denoising_Vagus
+excerpt: 'In recent years, machine learning (ML) models have shown outstanding performance in regression and classification problems, but it is often unclear how to translate and assess these for novel tasks in biomedical engineering. This paper aims to adapt existing ML algorithms to carry out unsupervised denoising of neural recordings instead. This is achieved by applying bandpass filtering and two novel ML algorithms to in-vivo spontaneous, low-SNR vagus nerve recordings. The performance of each approach is compared using the task of extracting respiratory afferent activity and validated using cross-correlation, MSE, and accuracy in terms of extracting the true respiratory rate. A variational autoencoder (VAE) model in particular produces results that show better correlation with respiratory activity compared to bandpass filtering, highlighting that these models have the potential to preserve relevant features in complex neural recordings.'
+date: 2023-12-11
+venue: '2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9871933'
+citation: '<b>Ribeiro M</b>, Koh RGL, Donnelly T, Lutteroth C, Proulx MJ, Rocha PRF, and Metcalfe B (2022) &quot;Denoising and decoding spontaneous vagus nerve recordings with machine learning.&quot; <i>2023 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</i> pp. 1-4. doi: 10.1109/EMBC40787.2023.10340443'
+---

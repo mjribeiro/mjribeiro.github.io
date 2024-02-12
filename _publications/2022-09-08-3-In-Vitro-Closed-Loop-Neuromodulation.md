@@ -6,5 +6,5 @@ excerpt: 'This paper describes the development of an in-vitro system for electri
 date: 2022-09-08
 venue: '2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9871933'
-citation: '<b>Ribeiro M</b>, Ribeiro M, Jabban L, Andreis FR, Nielsen TGNdS, Rocha PRF and Metcalfe B (2022) &quot;An in-vitro system for closed loop neuromodulation of peripheral nerves.&quot; <i>2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</i> pp. 2361-2364. doi: 10.1109/EMBC48229.2022.9871933'
+citation: '<b>Ribeiro M</b>, Jabban L, Andreis FR, Nielsen TGNdS, Rocha PRF and Metcalfe B (2022) &quot;An in-vitro system for closed loop neuromodulation of peripheral nerves.&quot; <i>2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</i> pp. 2361-2364. doi: 10.1109/EMBC48229.2022.9871933'
 ---
