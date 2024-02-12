@@ -5,43 +5,70 @@ permalink: /cv/
 author_profile: true
 ---
 
+Profile
+======
+* Integrated MRes/PhD student researching bioelectronics and artificial intelligence (AI) with a distinction attained in the MRes component
+* Industry experience across 1.5 years at The Technology Partnership (TTP) and Intel
+* Seeking post-PhD roles in developing and applying AI/ML in industry
+* High 2:1 MEng (Hons) in Electrical and Electronic Engineering from the University of Bath, with a First Class in the MEng project component.
+* Multiple journal and conference publications (Frontiers journals, IEEE Engineering in Medicine & Biology Conference (EMBC), Micromachines).
+
 Education
 ======
-* PhD at Centre for Accountable, Responsible and Transparent AI (ART-AI) <i>2020 – 2024</i>
-  * Interdisciplinary PhD project focused on the development of a closed-loop peripheral nerve interface which leverages AI techniques. This entails the development of an in vitro setup for collecting neuromodulation data from explanted nerves, and subsequently the development and assessment of AI models for effectively processing this data.
-* Integrated MRes in Computer Science, University of Bath, <i>2019 - 2020</i>
-	* Mark: Distinction
+* PhD at Centre for Accountable, Responsible and Transparent AI (ART-AI), <i>2020 – Present</i>
+  * Interdisciplinary PhD project focused on the development of implantable closed-loop peripheral nerve interfaces. This entailed the development of an \textit{ex-vivo} setup for collecting neuromodulation data from explanted animal nerves, and the development and assessment of AI models and optimization techniques for denoising and decoding peripheral nerve data.
+* MRes in Computer Science, University of Bath, <i>2019 - 2020</i>
+	* Overall mark: Distinction
 	* Modules in machine learning, statistics, robotics, and social science
-* MEng in Electronic and Electrical Engineering (with Placement), University of Bath, <i>2014 - 2019</i>
+* MEng in Electronic and Electrical Engineering, University of Bath, <i>2014 - 2019</i>
+  * Masters project in bioelectronics, involving the development of a microfluidic Brain-on-Chip platform for drug discovery.
 
 Work experience
 ======
- * Medical Device Development at The Technology Partnership (TTP) <i>Feb ’22 – Aug ’22</i>
- * Undergraduate and Masters Lab Demonstrator at the University of Bath <i>Sept ’19 – Present</i>
- * Summer Internship as part of C3Bio group at the University of Bath <i>Aug ’18 – Sept ’18</i>
- * Digital Design and Verification at Intel UK <i>Jul ’16 – Aug ’17</i>
-  
-Skills
-======
-* Computers and programming: Programming (Python, C, C++, SystemVerilog, VHDL, LabVIEW), AI/ML (PyTorch), Version Control (Git, ClearCase), Scripting (Bash, TCL/TCK), Mathematical Analysis (MATLAB/Simulink), Electronic Design Automation (EDA) Tools (Cadence, SpyGlass, Verdi), Image editing (Adobe Photoshop and Illustrator), Office Suite, LATEX
-* Analysis and modelling of data: Data pattern analysis with noise and impedance spectroscopy, data extrapolation
-* Electrical characterisation: Current-voltage characteristics, pulse measurements
-* Human tissue biology: Sample preparation, cell culturing and maintenance (Breast cancer cell lines), cryopreservation
-* Natural languages: Portuguese (mother tongue), English (full professional proficiency), German and Spanish (limited working proficiency)
+ * Consultant at The Technology Partnership (TTP), <i>Feb ’22 – Aug ’22</i>
+ * Undergraduate and Masters Teaching Assistant at the University of Bath, <i>Sept ’19 – Present</i>
+ * Summer Internship as part of C3Bio group at the University of Bath, <i>May ’19 – Sept ’19</i>
+ * Digital Design and Verification at Intel UK, <i>Jul ’16 – Aug ’17</i>
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Projects
 ======
-TODO...
+* PhD internship at The Technology Partnership (TTP) <i>Feb '22 -- Aug '22</i>
+
+  Worked as a consultant as part of the neurotechnology team, contributing to both internal R\&D projects and client-facing projects. Developed low-power ML algorithms for use in implantable cardiac devices, which have since been presented in prototypes at neurotechnology conferences and summits.
+
+* *AI Challenge Project, <i>Feb '20 -- May '20</i>
+
+  As part of MRes year, researched and developed electronics and AI models for project on air quality monitoring device. Worked within an interdisciplinary team considering AI, engineering, and social science challenges for such a product.
+
+* MEng Research Project, <i>Nov '18 -- May '19</i>
+
+  Development of a microfluidic Brain-On-Chip platform for ultra-low noise electrical recordings.
+
+* Digital Design and Verification Placement (Intel), <i>Jul '16 -- Aug '17</i>
+  
+  Worked at Intel’s Communications and Devices Group for placement year, specifically on functional verification and Design-For-Test of application-specific ICs (ASICs). Contributed to various projects’ digital design and verification using VHDL and SystemVerilog. Also wrote and presented conference paper at Synopsys User Group Conference (SNUG).
+
+* *STEM Ambassador – Volunteer, <i>Jul '16 -- Aug '17</i>
+
+  Industrial mentor for local school’s Go4SET competition team. Organised several volunteering events with placement colleagues to promote STEM-related education and careers. This involved the development and presentation of workshops with technical demos and activities, such as the programming of robot cars and PC building workshops.
+  
+Skills
+======
+* <b>Computers and programming</b>: Programming (Python, C, C++, SystemVerilog, VHDL, LabVIEW), AI/ML (PyTorch), Parallel Computing (Numba), Version Control (Git, ClearCase), Scripting (Bash), Mathematical Analysis (MATLAB/Simulink), Electronic Design Automation (EDA) Tools (Cadence, SpyGlass), Image editing (Adobe Photoshop and Illustrator), Office Suite, LaTeX
+* <b>Analysis and modelling of data</b>: Large-scale biomedical data analysis, regression analysis
+* <b>Electrical characterisation</b>: Current-voltage characteristics, pulse measurements, impedance spectroscopy
+* <b>Natural languages</b>: Portuguese (mother tongue), English (fluent), German and Spanish (limited working proficiency)
   
 Memberships and Awards
 ======
-* University of Bath Doctoral Recognition Award Winner for work in Equality, Diversity, and Inclusion (ED&I) groups <i>2022</i>
-* Member of Equality, Diversity, and Inclusivity (ED&I) committees for Computer Science and ART-AI at the University of Bath <i>2019 – Present</i>
-* Technical Committee Honourable Mention at Synopsys User Group Conference <i>2017</i>
-* Representative member of the Institute of Engineering and Technology (IET) <i>2014 – Present</i>
+* Institute of Engineering \& Technology (IET) Travel Award Recepient, <i>2023</i>
+* University of Bath Doctoral Recognition Award Winner for work in Equality, Diversity, and Inclusion (ED&I) groups, <i>2022</i>
+* Member of Equality, Diversity, and Inclusivity (ED&I) committees for Computer Science and ART-AI at the University of Bath, <i>2019 – Present</i>
+* Technical Committee Honourable Mention at Synopsys User Group Conference, <i>2017</i>
+* Member of the Institute for Electrical and Electronics Engineers (IEEE) and IET, <i>2019 – Present</i>
