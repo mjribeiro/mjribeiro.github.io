@@ -11,7 +11,7 @@ Profile
 * Industry experience across 1.5 years at The Technology Partnership (TTP) and Intel
 * Seeking post-PhD research scientist role in developing and applying AI/ML
 * Distinction in postgraduate MRes in AI. High 2:1 MEng (Hons) in Electrical and Electronic Engineering from the University of Bath, with a First Class in the MEng project component.
-* Multiple journal and conference publications (Frontiers journals, IEEE Engineering in Medicine \& Biology Conference (EMBC), Micromachines).
+* Multiple journal and conference publications (Frontiers journals, IEEE Engineering in Medicine & Biology Conference (EMBC), Micromachines).
 
 Education
 ======
@@ -67,7 +67,7 @@ Projects
 
 Memberships and Awards
 ======
-* <b>Institute of Engineering \& Technology (IET) Travel Award Recepient</b>, <i>2023</i>
+* <b>Institute of Engineering & Technology (IET) Travel Award Recepient</b>, <i>2023</i>
 * <b>University of Bath Doctoral Recognition Award Winner for work in Equality, Diversity, and Inclusion (ED&I) groups</b>, <i>2022</i>
 * <b>Member of Equality, Diversity, and Inclusivity (ED&I) committees for Computer Science and ART-AI at the University of Bath</b>, <i>2019 – Present</i>
 * <b>Technical Committee Honourable Mention at Synopsys User Group Conference</b>, <i>2017</i>
