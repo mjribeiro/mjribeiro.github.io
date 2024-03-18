@@ -7,16 +7,16 @@ author_profile: true
 
 Profile
 ======
-* Integrated MRes/PhD student researching bioelectronics and artificial intelligence (AI) with a distinction attained in the MRes component
+* Final year PhD student in biomedical engineering and machine learning (ML)
 * Industry experience across 1.5 years at The Technology Partnership (TTP) and Intel
-* Seeking post-PhD roles in developing and applying AI/ML in industry
-* High 2:1 MEng (Hons) in Electrical and Electronic Engineering from the University of Bath, with a First Class in the MEng project component.
-* Multiple journal and conference publications (Frontiers journals, IEEE Engineering in Medicine & Biology Conference (EMBC), Micromachines).
+* Seeking post-PhD research scientist role in developing and applying AI/ML
+* Distinction in postgraduate MRes in AI. High 2:1 MEng (Hons) in Electrical and Electronic Engineering from the University of Bath, with a First Class in the MEng project component.
+* Multiple journal and conference publications (Frontiers journals, IEEE Engineering in Medicine \& Biology Conference (EMBC), Micromachines).
 
 Education
 ======
 * <b>PhD at Centre for Accountable, Responsible and Transparent AI (ART-AI)</b>, <i>2020 – Present</i>
-  * Interdisciplinary PhD project focused on the development of implantable closed-loop peripheral nerve interfaces. This entailed the development of an \textit{ex-vivo} setup for collecting neuromodulation data from explanted animal nerves, and the development and assessment of AI models and optimization techniques for denoising and decoding peripheral nerve data.
+  * Interdisciplinary PhD project focused on the development of implantable closed-loop peripheral nerve interfaces. This entailed developing and analysing [ML models](https://github.com/mjribeiro/pns-ml-denoising) and optimization techniques for denoising and decoding peripheral nerve data in multiple domains.
 * <b>MRes in Computer Science, University of Bath</b>, <i>2019 - 2020</i>
 	* Overall mark: Distinction
 	* Modules in machine learning, statistics, robotics, and social science
@@ -36,6 +36,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Skills
+======
+* <b>Computers and programming</b>: Programming (Python, C, C++, SystemVerilog, VHDL, LabVIEW), AI/ML (PyTorch, Sklearn, Numpy, Pandas), Parallel Computing (Numba), Version Control (Git, ClearCase), DevOps (Docker), Scripting (Bash), Mathematical Analysis (MATLAB/Simulink), Data Visualization (Matplotlib, Plotly), Electronic Design Automation (EDA) Tools (Cadence, SpyGlass), Image editing (Adobe Photoshop and Illustrator), Office Suite, LaTeX
+* <b>Analysis and modelling of data</b>: Large-scale biomedical data analysis, regression analysis
+* <b>Electrical characterisation</b>: Current-voltage characteristics, pulse measurements, impedance spectroscopy
+* <b>Natural languages</b>: English (fluent), Portuguese (mother tongue), German and Spanish (limited working proficiency)
+
 Projects
 ======
 * <b>PhD internship at The Technology Partnership (TTP)</b>, <i>Feb '22 -- Aug '22</i>
@@ -51,20 +58,13 @@ Projects
   Development of a microfluidic Brain-On-Chip platform for ultra-low noise electrical recordings.
 
 * <b>Digital Design and Verification Placement (Intel)</b>, <i>Jul '16 -- Aug '17</i>
-  
+
   Worked at Intel’s Communications and Devices Group for placement year, specifically on functional verification and Design-For-Test of application-specific ICs (ASICs). Contributed to various projects’ digital design and verification using VHDL and SystemVerilog. Also wrote and presented conference paper at Synopsys User Group Conference (SNUG)  titled "Automatic Test Point Insertion in MPHY Products" (Technical committee award, honourable mention).s
 
 * <b>STEM Ambassador – Volunteer</b>, <i>Jul '16 -- Aug '17</i>
 
   Industrial mentor for local school’s Go4SET competition team. Organised several volunteering events with placement colleagues to promote STEM-related education and careers. This involved the development and presentation of workshops with technical demos and activities, such as the programming of robot cars and PC building workshops.
-  
-Skills
-======
-* <b>Computers and programming</b>: Programming (Python, C, C++, SystemVerilog, VHDL, LabVIEW), AI/ML (PyTorch), Parallel Computing (Numba), Version Control (Git, ClearCase), Scripting (Bash), Mathematical Analysis (MATLAB/Simulink), Electronic Design Automation (EDA) Tools (Cadence, SpyGlass), Image editing (Adobe Photoshop and Illustrator), Office Suite, LaTeX
-* <b>Analysis and modelling of data</b>: Large-scale biomedical data analysis, regression analysis
-* <b>Electrical characterisation</b>: Current-voltage characteristics, pulse measurements, impedance spectroscopy
-* <b>Natural languages</b>: Portuguese (mother tongue), English (fluent), German and Spanish (limited working proficiency)
-  
+
 Memberships and Awards
 ======
 * <b>Institute of Engineering \& Technology (IET) Travel Award Recepient</b>, <i>2023</i>
