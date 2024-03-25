@@ -9,7 +9,7 @@ Profile
 ======
 * Final year PhD student in biomedical engineering and machine learning (ML)
 * Industry experience across 1.5 years at The Technology Partnership (TTP) and Intel
-* Seeking post-PhD research scientist role in developing and applying AI/ML
+* Seeking post-PhD role as AI/ML research scientist or engineer
 * Distinction in postgraduate MRes in AI. High 2:1 MEng (Hons) in Electrical and Electronic Engineering from the University of Bath, with a First Class in the MEng project component.
 * Multiple journal and conference publications (Frontiers journals, IEEE Engineering in Medicine & Biology Conference (EMBC), Micromachines).
 
