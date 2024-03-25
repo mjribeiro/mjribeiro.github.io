@@ -39,8 +39,8 @@ Publications
 Skills
 ======
 * <b>Computers and programming</b>: Programming (Python, C, C++, SystemVerilog, VHDL, LabVIEW), AI/ML (PyTorch, Sklearn, Numpy, Pandas), Parallel Computing (Numba), Version Control (Git, ClearCase), DevOps (Docker), Scripting (Bash), Mathematical Analysis (MATLAB/Simulink), Data Visualization (Matplotlib, Plotly), Electronic Design Automation (EDA) Tools (Cadence, SpyGlass), Image editing (Adobe Photoshop and Illustrator), Office Suite, LaTeX
-* <b>Analysis and modelling of data</b>: Large-scale biomedical data analysis, regression analysis
-* <b>Electrical characterisation</b>: Current-voltage characteristics, pulse measurements, impedance spectroscopy
+* <b>Data analysis & modelling</b>: Large-scale biomedical data analysis, regression analysis, quadratic programming
+* <b>Electrical engineering</b>: Current-voltage characteristics, pulse measurements, impedance spectroscopy
 * <b>Natural languages</b>: English (fluent), Portuguese (mother tongue), German and Spanish (limited working proficiency)
 
 Projects
