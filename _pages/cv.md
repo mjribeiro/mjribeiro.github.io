@@ -11,7 +11,7 @@ Profile
 * Industry experience across 1.5 years at The Technology Partnership (TTP) and Intel
 * Seeking post-PhD role as AI/ML research scientist or engineer
 * Distinction in postgraduate MRes in AI. High 2:1 MEng (Hons) in Electrical and Electronic Engineering from the University of Bath, with a First Class in the MEng project component.
-* Multiple journal and conference publications (Frontiers journals, IEEE Engineering in Medicine & Biology Conference (EMBC), Micromachines).
+* Multiple journal and conference publications (Journal of Neuroscience Methods, Frontiers journals, IEEE Engineering in Medicine & Biology Conference (EMBC), Micromachines).
 
 Education
 ======
@@ -25,10 +25,11 @@ Education
 
 Work experience
 ======
- * <b>Consultant at The Technology Partnership (TTP)</b>, <i>Feb ’22 – Aug ’22</i>
- * <b>Undergraduate and Masters Teaching Assistant at the University of Bath</b>, <i>Sept ’19 – Present</i>
- * <b>Summer Internship as part of C3Bio group at the University of Bath</b>, <i>May ’19 – Sept ’19</i>
- * <b>Digital Design and Verification at Intel UK</b>, <i>Jul ’16 – Aug ’17</i>
+ * <b>Technology Partnership (TTP)</b>, Neurotechnology Consultant, <i>Feb ’22 – Aug ’22</i>
+ * <b>University of Bath</b>,
+   * Undergraduate and Postgraduate Teaching Assistant<i>, Sept ’19 – Dec ’22</i>
+   * CBio Summer Internship, <i>May ’19 – Sept ’19</i>
+ * <b>Intel UK</b>, Digital Design and Verification, <i>Jul ’16 – Aug ’17</i>
 
 Publications
 ======
@@ -39,7 +40,7 @@ Publications
 Skills
 ======
 * <b>Computers and programming</b>: Programming (Python, C, C++, SystemVerilog, VHDL, LabVIEW), AI/ML (PyTorch, Sklearn, Numpy, Pandas), Parallel Computing (Numba), Version Control (Git, ClearCase), DevOps (Docker), Scripting (Bash), Mathematical Analysis (MATLAB/Simulink), Data Visualization (Matplotlib, Plotly), Electronic Design Automation (EDA) Tools (Cadence, SpyGlass), Image editing (Adobe Photoshop and Illustrator), Office Suite, LaTeX
-* <b>Data analysis & modelling</b>: Large-scale biomedical data analysis, regression analysis, quadratic programming
+* <b>Data analysis & modelling</b>: Large-scale biomedical data analysis, signal processing, regression analysis, quadratic programming
 * <b>Electrical engineering</b>: Current-voltage characteristics, pulse measurements, impedance spectroscopy
 * <b>Natural languages</b>: English (fluent), Portuguese (mother tongue), German and Spanish (limited working proficiency)
 
