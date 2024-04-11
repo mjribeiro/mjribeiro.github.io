@@ -9,7 +9,7 @@ Profile
 ======
 * Final year PhD student in biomedical engineering and machine learning (ML)
 * Industry experience across 1.5 years at The Technology Partnership (TTP) and Intel
-* Seeking post-PhD role as AI/ML research scientist or engineer
+* Seeking post-PhD role as AI/ML research scientist or engineer starting from July 2024
 * Distinction in postgraduate MRes in AI. High 2:1 MEng (Hons) in Electrical and Electronic Engineering from the University of Bath, with a First Class in the MEng project component.
 * Multiple journal and conference publications (Journal of Neuroscience Methods, Frontiers journals, IEEE Engineering in Medicine & Biology Conference (EMBC), Micromachines).
 
@@ -48,7 +48,7 @@ Projects
 ======
 * <b>PhD internship at The Technology Partnership (TTP)</b>, <i>Feb '22 -- Aug '22</i>
 
-  Worked as a consultant as part of the neurotechnology team, contributing to both internal R\&D projects and client-facing projects. Developed [low-power ML algorithms for use in implantable cardiac devices](https://www.linkedin.com/posts/mafalda-j-ribeiro_machinelearning-ttp-activity-6978670651268067328-iBKR?utm_source=share&utm_medium=member_desktop), which have since been presented in prototypes at neurotechnology conferences and summits.
+  Worked as a consultant as part of the neurotechnology team, contributing to both internal R\&D projects and client-facing projects. Developed [low-power ML algorithms for use in implantable cardiac devices](https://www.linkedin.com/posts/mafalda-j-ribeiro_machinelearning-ttp-activity-6978670651268067328-iBKR?utm_source=share&utm_medium=member_desktop), which have since been presented in prototypes at medical device conferences and summits.
 
 * <b>AI Challenge Project</b>, <i>Feb '20 -- May '20</i>
 
