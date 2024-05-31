@@ -41,16 +41,16 @@ and electronics for medical devices
 
 Projects
 ======
-* <b>ML denoising of electrical data from peripheral nerves</b> (2023)
+* <b>ML denoising of electrical data from peripheral nerves</b>, <i>2023</i>
     * Adapted and implemented CNN-based models such as VAE and U-Net (Noise2Noise) models in PyTorch for efficient ML-based denoising of peripheral nerve data ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/311541808/EMBC2023.pdf) / [Code](https://github.com/mjribeiro/pns-ml-denoising))
-* <b>Estimating nerve fibre distributions with convex optimisation</b> (2022 – 2024)
+* <b>Estimating nerve fibre distributions with convex optimisation</b>, <i>2022 – 2024</i>
     * Improved previous quadratic programming approach (Two-CAP method) for estimating distributions of fibre conduction velocities in whole nerve electrical recordings ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/247985478/2CAP_EMBC_2022.pdf))
     * Recently expanded this work with biophysically accurate simulation models and ML-based segmentation of nerve imaging (histology) data (to be published)
-* <b>Ex-vivo platforms to maximise nerve data collection</b> (2021 – 2024)
+* <b>Ex-vivo platforms to maximise nerve data collection</b>, <i>2021 – 2024</i>
     * Planned and carried out in-vivo and ex-vivo animal nerve experiments to collect neuromodulation datasets and devised platform to promote data-driven and ML-based research ([Paper](https://www.sciencedirect.com/science/article/pii/S016502702400061X))
     * Performed detailed data and regression analyses to demonstrate new trends seen in ex-vivo
 system
-* <b>AI Challenge Project</b> (2020)
+* <b>AI Challenge Project</b>, <i>2020</i>
     * Researched and developed electronics and AI models for project on air quality monitoring, as part of MRes year
 
 Skills
