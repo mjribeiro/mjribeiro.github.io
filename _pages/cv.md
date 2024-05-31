@@ -7,29 +7,37 @@ author_profile: true
 
 Profile
 ======
-* Final year PhD student in biomedical engineering and machine learning (ML)
+* Final year PhD student in machine learning (ML) and biomedical engineering
 * Industry experience across 1.5 years at The Technology Partnership (TTP) and Intel
 * Seeking post-PhD role as AI/ML research scientist or engineer starting from July 2024
-* Distinction in postgraduate MRes in AI. High 2:1 MEng (Hons) in Electrical and Electronic Engineering from the University of Bath, with a First Class in the MEng project component.
 * Multiple journal and conference publications (Journal of Neuroscience Methods, Frontiers journals, IEEE Engineering in Medicine & Biology Conference (EMBC), Micromachines).
+* Distinction in postgraduate MRes in AI. High 2:1 MEng (Hons) in Electrical and Electronic Engineering from the University of Bath, with a First Class in the MEng project component.
 
 Education
 ======
 * <b>PhD at Centre for Accountable, Responsible and Transparent AI (ART-AI)</b>, <i>2020 – Present</i>
-  * Interdisciplinary PhD project focused on the development of implantable closed-loop peripheral nerve interfaces. This entailed developing and analysing [ML models](https://github.com/mjribeiro/pns-ml-denoising) and optimization techniques for denoising and decoding peripheral nerve data in multiple domains.
-* <b>MRes in Computer Science, University of Bath</b>, <i>2019 - 2020</i>
-	* Overall mark: Distinction
-	* Modules in machine learning, statistics, robotics, and social science
-* <b>MEng in Electronic and Electrical Engineering, University of Bath</b>, <i>2014 - 2019</i>
-  * Masters project in bioelectronics, involving the development of a microfluidic Brain-on-Chip platform for drug discovery.
+    * Interdisciplinary PhD project on developing implantable closed-loop nerve interfaces to improve treatment of various neurological conditions
+    * Developed and analysed [ML models](https://github.com/mjribeiro/pns-ml-denoising) and optimisation techniques for denoising and decoding biomedical data from peripheral nerves in multiple domains
+    * Published and collaborated on multiple peer-reviewed journal and conference papers, and presented research at conferences internationally
+* <b>MRes in Computer Science, University of Bath (Distinction)</b>, <i>2019 - 2020</i>
+	* Modules in machine learning (89%, 87%), statistics (86%), robotics (77%), and social science (64%, 65%)
+* <b>MEng in Electronic and Electrical Engineering, University of Bath (High 2.1)</b>, <i>2014 - 2019</i>
+  * Masters project in bioelectronics, involving the development of a microfluidic Brain-on-Chip platform for drug discovery applications
 
 Work experience
 ======
  * <b>Technology Partnership (TTP)</b>, Neurotechnology Consultant, <i>Feb ’22 – Aug ’22</i>
- * <b>University of Bath</b>,
-   * Undergraduate and Postgraduate Teaching Assistant<i>, Sept ’19 – Dec ’22</i>
-   * CBio Summer Internship, <i>May ’19 – Sept ’19</i>
- * <b>Intel UK</b>, Digital Design and Verification, <i>Jul ’16 – Aug ’17</i>
+   * Contributed to both internal R&D projects and client-facing projects on software engineering
+   * Researched and implemented low-power ML algorithms for implantable cardiac devices, which have since been presented in prototypes at medical device conferences and meetings
+and electronics for medical devices
+
+ * <b>University of Bath</b>, Undergraduate and Postgraduate Teaching Assistant<i>, Sept ’19 – Dec ’22</i>
+    * Taught and assessed undergraduate and master’s courses in Computer Science and Electrical and Electronic Engineering at the University of Bath
+    * Modules included robotics software, artificial intelligence, and programming
+
+ * <b>Intel UK</b>, Digital Design and Verification Intern, <i>Jul ’16 – Aug ’17</i>
+    * Worked at Intel’s Communications and Devices Group for a year, specifically on functional verification and Design-For-Test of application-specific ICs (ASICs)
+    * Wrote and presented conference paper at Synopsys User Group Conference (SNUG) titled "Automatic Test Point Insertion in MPHY Products" (Technical committee award, honourable mention)
 
 Publications
 ======
@@ -37,34 +45,27 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
-======
-* <b>Computers and programming</b>: Programming (Python, C, C++, SystemVerilog, VHDL, LabVIEW), AI/ML (PyTorch, Sklearn, Numpy, Pandas), Parallel Computing (Numba), Version Control (Git, ClearCase), DevOps (Docker), Scripting (Bash), Mathematical Analysis (MATLAB/Simulink), Data Visualization (Matplotlib, Plotly), Electronic Design Automation (EDA) Tools (Cadence, SpyGlass), Image editing (Adobe Photoshop and Illustrator), Office Suite, LaTeX
-* <b>Data analysis & modelling</b>: Large-scale biomedical data analysis, signal processing, regression analysis, quadratic programming
-* <b>Electrical engineering</b>: Current-voltage characteristics, pulse measurements, impedance spectroscopy
-* <b>Natural languages</b>: English (fluent), Portuguese (mother tongue), German and Spanish (limited working proficiency)
 
 Projects
 ======
-* <b>PhD internship at The Technology Partnership (TTP)</b>, <i>Feb '22 -- Aug '22</i>
+* <b>ML denoising of electrical data from peripheral nerves</b> (2023)
+    * Adapted and implemented CNN-based models such as VAE and U-Net (Noise2Noise) models in PyTorch for efficient ML-based denoising of peripheral nerve data ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/311541808/EMBC2023.pdf) | [Code](https://github.com/mjribeiro/pns-ml-denoising))
+* <b>Estimating nerve fibre distributions with convex optimisation</b> (2022 – 2024)
+    * Improved previous quadratic programming approach (Two-CAP method) for estimating distributions of fibre conduction velocities in whole nerve electrical recordings ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/247985478/2CAP_EMBC_2022.pdf))
+    * Recently expanded this work with biophysically accurate simulation models and ML-based segmentation of nerve imaging (histology) data (to be published)
+* <b>Ex-vivo platforms to maximise nerve data collection</b> (2021 – 2024)
+    * Planned and carried out in-vivo and ex-vivo animal nerve experiments to collect neuromodulation datasets and devised platform to promote data-driven and ML-based research ([Paper](https://www.sciencedirect.com/science/article/pii/S016502702400061X))
+    * Performed detailed data and regression analyses to demonstrate new trends seen in ex-vivo
+system
+* <b>AI Challenge Project</b> (2020)
+    * Researched and developed electronics and AI models for project on air quality monitoring, as part of MRes year
 
-  Worked as a consultant as part of the neurotechnology team, contributing to both internal R\&D projects and client-facing projects. Developed [low-power ML algorithms for use in implantable cardiac devices](https://www.linkedin.com/posts/mafalda-j-ribeiro_machinelearning-ttp-activity-6978670651268067328-iBKR?utm_source=share&utm_medium=member_desktop), which have since been presented in prototypes at medical device conferences and summits.
-
-* <b>AI Challenge Project</b>, <i>Feb '20 -- May '20</i>
-
-  As part of MRes year, researched and developed electronics and AI models for project on air quality monitoring device. Worked within an interdisciplinary team considering AI, engineering, and social science challenges for such a product.
-
-* <b>MEng Research Project</b>, <i>Nov '18 -- May '19</i>
-
-  Development of a microfluidic Brain-On-Chip platform for ultra-low noise electrical recordings.
-
-* <b>Digital Design and Verification Placement (Intel)</b>, <i>Jul '16 -- Aug '17</i>
-
-  Worked at Intel’s Communications and Devices Group for placement year, specifically on functional verification and Design-For-Test of application-specific ICs (ASICs). Contributed to various projects’ digital design and verification using VHDL and SystemVerilog. Also wrote and presented conference paper at Synopsys User Group Conference (SNUG)  titled "Automatic Test Point Insertion in MPHY Products" (Technical committee award, honourable mention).s
-
-* <b>STEM Ambassador – Volunteer</b>, <i>Jul '16 -- Aug '17</i>
-
-  Industrial mentor for local school’s Go4SET competition team. Organised several volunteering events with placement colleagues to promote STEM-related education and careers. This involved the development and presentation of workshops with technical demos and activities, such as the programming of robot cars and PC building workshops.
+Skills
+======
+* <b>Computers and programming</b>: Programming (Python, C, SystemVerilog, VHDL), AI/ML (PyTorch, Scikit-learn, Numpy, Pandas, Weights & Biases), Parallel Computing (Numba), Version Control (Git, ClearCase), DevOps (Docker), Scripting (Bash), Mathematical Analysis (MATLAB), LaTeX
+* <b>Data analysis & modelling</b>: Large-scale biomedical data analysis, signal processing, image processing, regression analysis, data visualisation, quadratic programming
+* <b>Electrical engineering</b>: Current-voltage characteristics, pulse measurements, impedance spectroscopy
+* <b>Natural languages</b>: English (fluent), Portuguese (fluent), German and Spanish (limited working proficiency)
 
 Memberships and Awards
 ======
