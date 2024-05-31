@@ -39,13 +39,6 @@ and electronics for medical devices
     * Worked at Intel’s Communications and Devices Group for a year, specifically on functional verification and Design-For-Test of application-specific ICs (ASICs)
     * Wrote and presented conference paper at Synopsys User Group Conference (SNUG) titled "Automatic Test Point Insertion in MPHY Products" (Technical committee award, honourable mention)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
 Projects
 ======
 * <b>ML denoising of electrical data from peripheral nerves</b> (2023)
@@ -66,6 +59,12 @@ Skills
 * <b>Data analysis & modelling</b>: Large-scale biomedical data analysis, signal processing, image processing, regression analysis, data visualisation, quadratic programming
 * <b>Electrical engineering</b>: Current-voltage characteristics, pulse measurements, impedance spectroscopy
 * <b>Natural languages</b>: English (fluent), Portuguese (fluent), German and Spanish (limited working proficiency)
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Memberships and Awards
 ======
