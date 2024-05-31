@@ -49,7 +49,7 @@ Publications
 Projects
 ======
 * <b>ML denoising of electrical data from peripheral nerves</b> (2023)
-    * Adapted and implemented CNN-based models such as VAE and U-Net (Noise2Noise) models in PyTorch for efficient ML-based denoising of peripheral nerve data ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/311541808/EMBC2023.pdf) | [Code](https://github.com/mjribeiro/pns-ml-denoising))
+    * Adapted and implemented CNN-based models such as VAE and U-Net (Noise2Noise) models in PyTorch for efficient ML-based denoising of peripheral nerve data ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/311541808/EMBC2023.pdf) / [Code](https://github.com/mjribeiro/pns-ml-denoising))
 * <b>Estimating nerve fibre distributions with convex optimisation</b> (2022 – 2024)
     * Improved previous quadratic programming approach (Two-CAP method) for estimating distributions of fibre conduction velocities in whole nerve electrical recordings ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/247985478/2CAP_EMBC_2022.pdf))
     * Recently expanded this work with biophysically accurate simulation models and ML-based segmentation of nerve imaging (histology) data (to be published)
