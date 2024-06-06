@@ -8,24 +8,28 @@ author_profile: true
 Profile
 ======
 * Final year PhD student in machine learning (ML) and biomedical engineering
+* 4.5 years of experience using Python, PyTorch, Docker, and Git for ML and data-driven research projects during PhD and in industry
 * Industry experience across 1.5 years at The Technology Partnership (TTP) and Intel
 * Seeking post-PhD role as AI/ML research scientist or engineer starting from July 2024
-* Multiple journal and conference publications (Journal of Neuroscience Methods, Frontiers journals, IEEE Engineering in Medicine & Biology Conference (EMBC), Micromachines).
 * Distinction in postgraduate MRes in AI. High 2:1 MEng (Hons) in Electrical and Electronic Engineering from the University of Bath, with a First Class in the MEng project component.
 
-Education
+Experience
 ======
-* <b>PhD at Centre for Accountable, Responsible and Transparent AI (ART-AI)</b>, <i>2020 – Present</i>
-    * Interdisciplinary PhD project on developing implantable closed-loop nerve interfaces to improve treatment of various neurological conditions
-    * Developed and analysed [ML models](https://github.com/mjribeiro/pns-ml-denoising) and optimisation techniques for denoising and decoding biomedical data from peripheral nerves in multiple domains
-    * Published and collaborated on multiple peer-reviewed journal and conference papers, and presented research at conferences internationally
-* <b>MRes in Computer Science, University of Bath (Distinction)</b>, <i>2019 - 2020</i>
-	* Modules in machine learning (89%, 87%), statistics (86%), robotics (77%), and social science (64%, 65%)
-* <b>MEng in Electronic and Electrical Engineering, University of Bath (High 2.1)</b>, <i>2014 - 2019</i>
-  * Masters project in bioelectronics, involving the development of a microfluidic Brain-on-Chip platform for drug discovery applications
-
-Work experience
-======
+ * <b>University of Bath</b>, Doctoral Researcher, <i>Sept ’20 – Present</i>
+   * Interdisciplinary PhD project on developing implantable closed-loop nerve interfaces to
+improve treatment of various neurological conditions
+   * Adapted and implemented CNN-based models such as VAE and U-Net (Noise2Noise)
+models in PyTorch for efficient ML-based denoising of peripheral nerve data ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/311541808/EMBC2023.pdf) / [Code](https://github.com/mjribeiro/pns-ml-denoising))
+   * Improved previous quadratic programming approach (Two-CAP method) for estimating
+distributions of fibre conduction velocities in whole nerve electrical recordings ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/247985478/2CAP_EMBC_2022.pdf))
+   * Recently expanded quadratic programming work with biophysically accurate simulation
+models and ML-based segmentation of nerve imaging (histology) data (to be published)
+   * Planned and carried out in-vivo and ex-vivo animal experiments to collect neuromodulation
+datasets and promote data-driven and ML-based research ([Paper](https://www.sciencedirect.com/science/article/pii/S016502702400061X))
+   * Leveraged Docker to create reproducible and easy-to-use environments to reduce onboarding
+time for collaborators
+   * Published and collaborated on 4 peer-reviewed journal papers and 5 conference papers,
+multiple times as first author, and presented research at conferences internationally
  * <b>Technology Partnership (TTP)</b>, Neurotechnology Consultant, <i>Feb ’22 – Aug ’22</i>
    * Contributed to both internal R&D projects and client-facing projects on software engineering
    * Researched and implemented low-power ML algorithms for implantable cardiac devices, which have since been presented in prototypes at medical device conferences and meetings
@@ -39,23 +43,19 @@ and electronics for medical devices
     * Worked at Intel’s Communications and Devices Group for a year, specifically on functional verification and Design-For-Test of application-specific ICs (ASICs)
     * Wrote and presented conference paper at Synopsys User Group Conference (SNUG) titled "Automatic Test Point Insertion in MPHY Products" (Technical committee award, honourable mention)
 
-Projects
+Education
 ======
-* <b>ML denoising of electrical data from peripheral nerves</b>, <i>2023</i>
-    * Adapted and implemented CNN-based models such as VAE and U-Net (Noise2Noise) models in PyTorch for efficient ML-based denoising of peripheral nerve data ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/311541808/EMBC2023.pdf) / [Code](https://github.com/mjribeiro/pns-ml-denoising))
-* <b>Estimating nerve fibre distributions with convex optimisation</b>, <i>2022 – 2024</i>
-    * Improved previous quadratic programming approach (Two-CAP method) for estimating distributions of fibre conduction velocities in whole nerve electrical recordings ([Paper](https://purehost.bath.ac.uk/ws/portalfiles/portal/247985478/2CAP_EMBC_2022.pdf))
-    * Recently expanded this work with biophysically accurate simulation models and ML-based segmentation of nerve imaging (histology) data (to be published)
-* <b>Ex-vivo platforms to maximise nerve data collection</b>, <i>2021 – 2024</i>
-    * Planned and carried out in-vivo and ex-vivo animal nerve experiments to collect neuromodulation datasets and devised platform to promote data-driven and ML-based research ([Paper](https://www.sciencedirect.com/science/article/pii/S016502702400061X))
-    * Performed detailed data and regression analyses to demonstrate new trends seen in ex-vivo
-system
-* <b>AI Challenge Project</b>, <i>2020</i>
-    * Researched and developed electronics and AI models for project on air quality monitoring, as part of MRes year
+* <b>PhD at Centre for Accountable, Responsible and Transparent AI (ART-AI)</b>, <i>2020 – Present</i>
+* <b>MRes in Computer Science, University of Bath (Distinction)</b>, <i>2019 - 2020</i>
+	* Modules in machine learning (89%, 87%), statistics (86%), robotics (77%), and social science (64%, 65%)
+* <b>MEng in Electronic and Electrical Engineering, University of Bath (High 2.1)</b>, <i>2014 - 2019</i>
+   * Masters project in bioelectronics, involving the development of a microfluidic Brain-on-Chip platform for drug discovery.
 
 Skills
 ======
-* <b>Computers and programming</b>: Programming (Python, C, SystemVerilog, VHDL), AI/ML (PyTorch, Scikit-learn, Numpy, Pandas, Weights & Biases), Parallel Computing (Numba), Version Control (Git, ClearCase), DevOps (Docker), Scripting (Bash), Mathematical Analysis (MATLAB), LaTeX
+* <b>Programming languages</b>: Python, MATLAB, C, SystemVerilog, VHDL, Bash
+* <b>Tools & Libraries</b>: AI/ML (PyTorch, Scikit-learn, Numpy, Pandas, Weights & Biases), Parallel
+Computing (Numba), Version Control (Git, ClearCase), DevOps (Docker), LaTeX
 * <b>Data analysis & modelling</b>: Large-scale biomedical data analysis, signal processing, image processing, regression analysis, data visualisation, quadratic programming
 * <b>Electrical engineering</b>: Current-voltage characteristics, pulse measurements, impedance spectroscopy
 * <b>Natural languages</b>: English (fluent), Portuguese (fluent), German and Spanish (limited working proficiency)
